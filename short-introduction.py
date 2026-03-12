@@ -16,5 +16,5 @@ HObby = input("hobby?")
 #Print the introduction
 print("I AM",Name)
 print("I LIVE IN",City)
-print("I am ",age,"years old")
+print("I am ",GENDER,age,"years old")
 print("my hobby is",HObby)
